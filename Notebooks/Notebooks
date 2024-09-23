@@ -1,1 +1,6 @@
+Notebooks description:
 
+Data Preparation for Machine Learning:
+Synthetic Aperture Radar (SAR) data is a widely used tool in many remote sensing applications. Used alone or in conjunction with other imaging modalities, SAR can greatly benefit from the use of machine learning approaches for many different applications, ranging from signal processing to image processing to end-user applications.
+Due to their unique imaging mechanism, SAR images require specific preprocessing techniques to prepare them for machine learning tasks such as despeckling, segmentation, and classification.
+This notebook focuses on two main preprocessing steps, such as (1) statistical properties of SAR data and (2) data preprocessing.
