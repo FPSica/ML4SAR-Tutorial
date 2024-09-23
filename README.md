@@ -1,4 +1,5 @@
 # Tutorial on Machine Learning for Synthetic Aperture Radar (ML4SAR)
+### Dr. Francescopaolo Sica
 
 This tutorial approaches Synthetic Aperture Radar (SAR) as one more data modality to be integrated into Machine Learning applications. The focus is on preparing SAR data to be ML-ready, with a clear goal of making it accessible for machine learning workflows.
 
